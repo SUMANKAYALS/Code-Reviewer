@@ -10,10 +10,10 @@ CodeGuardian is an AI-powered code review tool that helps developers analyze and
 - Multi-language support
 
 ## Technologies Used
-- Frontend: React.js / Next.js
+- Frontend: React.js 
 - Backend: Node.js / Express
 - AI Model: Google Gemini API integration
-- Database: MongoDB / PostgreSQL
+- Database: MongoDB 
 
 ## Installation
 1. Clone the repository:
