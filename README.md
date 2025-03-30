@@ -44,6 +44,9 @@ Feel free to submit issues or pull requests to contribute to CodeGuardian.
 ## License
 This project is licensed under the MIT License.
 
+## Screenshots
+https://github.com/SUMANKAYALS/Code-Reviewer/blob/846adddb661c30be754a533f2c0eb7d83f0bf16c/loo10.PNG
+
 ## Contact
 For any queries, reach out to `suman13kayal@gmail.com` or visit the GitHub repository.
 
